@@ -1,4 +1,4 @@
-<p align="center">
+<p*align="center">
   <a href="https://cakephp.org/" target="_blank" >
     <img alt="CakePHP" src="https://cakephp.org/v2/img/logos/CakePHP_Logo.svg" width="400" />
   </a>
@@ -30,7 +30,7 @@ Mapping, Front Controller, and MVC.  Our primary goal is to provide a structured
 framework that enables PHP users at all levels to rapidly develop robust web
 applications, without any loss to flexibility.
 
-## Installing CakePHP via Composer
+*# Installing CakePHP via Composer
 
 You can install CakePHP into your project using
 [Composer](https://getcomposer.org).  If you're starting a new project, we
@@ -56,8 +56,8 @@ tests for CakePHP by doing the following:
 
 ## Some Handy Links
 
-* [CakePHP](https://cakephp.org) - The rapid development PHP framework.
-* [CookBook](https://book.cakephp.org) - The CakePHP user documentation; start learning here!
+# [CakePHP](https://cakephp.org) - The rapid development PHP framework.
+* [CookBook](https://book.cakephp.org) - The CakePHP user documentation; start learning here*
 * [API](https://api.cakephp.org) - A reference to CakePHP's classes.
 * [Awesome CakePHP](https://github.com/FriendsOfCake/awesome-cakephp) - A list of featured resources around the framework.
 * [Plugins](https://plugins.cakephp.org) - A repository of extensions to the framework.
@@ -67,7 +67,7 @@ tests for CakePHP by doing the following:
 * [CakeFest](https://cakefest.org) - Don't miss our annual CakePHP conference.
 * [Cake Software Foundation](https://cakefoundation.org) - Promoting development related to CakePHP.
 
-## Get Support!
+## Get Support 
 
 * [Slack](https://slack-invite.cakephp.org/) - Join us on Slack.
 * [Discord](https://discord.gg/k4trEMPebj) - Join us on Discord.
@@ -85,3 +85,4 @@ tests for CakePHP by doing the following:
 
 If you’ve found a security issue in CakePHP, please use the procedure
 described in [SECURITY.md](.github/SECURITY.md).
+ 
